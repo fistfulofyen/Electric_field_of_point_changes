@@ -34,7 +34,7 @@ You can customize the simulation by adjusting the following parameters:
 
 The program will generate a plot showing the electric field vectors due to the point charge in the first quadrant. The arrows or streamlines represent the direction and magnitude of the electric field at different positions.
 
-![Electric Field Simulation](electric_field_simulation.png)
+![Electric Field Simulation](https://github.com/fistfulofyen/Electric_field_of_point_changes/blob/main/quad.png)
 
 ## Note
 
