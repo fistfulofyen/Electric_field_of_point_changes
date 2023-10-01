@@ -1,4 +1,4 @@
-# Electrical Field Simulation for a Point Charge in a Quadrant
+# Electrical Field Simulation for Point Charges
 
 This program simulates the electric field due to a point charge situated in a quadrant in the XY plane, while the X and Y axes are covered by an infinitely long grounded conductor.
 
